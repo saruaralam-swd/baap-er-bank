@@ -4,7 +4,7 @@ document.getElementById('login-btn').addEventListener('click', () => {
 
   // DANGER: DO NOT VERITY email or password on the client side
   // gmail and password validation check 
-  if(email == 'name' && password == 1234) {
+  if(email == 'saruaralam@gmail.com' && password == 1234) {
     window.location.href = 'bank.html';
   }
   else{
